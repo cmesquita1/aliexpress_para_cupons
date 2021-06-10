@@ -4,9 +4,7 @@ Vc precisa ter python instalado no pc (https://www.python.org/downloads/)
 e bibliotecas para instalar depois de instalar o python via cmd usando comando: pip install nome_da_biblioteca aqui
 
 bibliotecas:
-  selenium
-  Pillow
-  opencv-python
+  selenium, Pillow e opencv-python
   
  agora com isso vc deve tirar uma print do valor usando win+shift+s no carrinho e salva na pasta como total.png (tem uma imagem ja chamada total.png como exemplo)
  
