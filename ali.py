@@ -2,6 +2,7 @@ import pyautogui
 from pyautogui import locateOnScreen as LoS
 from time import sleep
 
+sleep(10)
 while True:
     TOTAL = LoS('total.png', confidence =0.8)
     if TOTAL:
